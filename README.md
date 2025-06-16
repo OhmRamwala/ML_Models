@@ -15,7 +15,7 @@ This repository contains implementations of various machine learning models and 
 9. **Gaussian Mixture Models (GMM)**
 10. **Isomap**
 11. **K-Means Clustering**
-12. **Gradient Boosting Regressor**
+12. **Gradient Boosting Regressor** 
 
 ---
 
